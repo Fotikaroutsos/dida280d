@@ -65,3 +65,20 @@ text-align:center;
     width: 80%;
     margin: auto;
 }
+.the-swing {
+    text-align: left;
+    max-width: 500px;
+    margin: 30px auto;
+}
+
+.the-swing h1 {
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+
+.the-swing p {
+    font-size: 18px;
+    line-height: 1.4;
+    margin-top: 0;
+    margin-bottom: 4px;
+}
